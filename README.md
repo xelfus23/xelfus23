@@ -10,12 +10,9 @@ Highly motivated and detail-oriented IT Student pursuing a Bachelor’s degree i
 # 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=xelfus23&show_icons=true&theme=radical)](https://github.com/xelfus23)
 ![](https://nirzak-streak-stats.vercel.app/?user=xelfus23&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xelfus23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xelfus23&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xelfus23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xelfus23&limit=5&theme=dark&combine_all_yearly_contributions=true)
