@@ -1,6 +1,7 @@
 # 💫 About Me:
 Highly motivated and detail-oriented IT Student pursuing a Bachelor’s degree in Web Application Development seeking an On-the-Job Training (OJT) internship to gain practical experience in a dynamic IT environment. Eager to contribute to a variety of projects while developing expertise in web development, and quality assurance. Possessing a strong foundation in front-end technologies and a passion for learning new skills. 
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)](https://github.com/[Your GitHub Username])
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Patrick.John.Medenilla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patrick.medenilla23@gmail.com) 
