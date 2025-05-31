@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated and detail-oriented IT Student pursuing a Bachelor’s degree in Web Application Development seeking an On-the-Job Training (OJT) internship to gain practical experience in a dynamic IT environment. Eager to contribute to a variety of projects while developing expertise in web development, and quality assurance. Possessing a strong foundation in front-end technologies and a passion for learning new skills. 
+Highly motivated and detail-oriented developer pursuing a Bachelor’s degree in Information Technology majoring in Web Application Development. Eager to contribute to a variety of projects while developing expertise in web development, and quality assurance. Possessing a strong foundation in front-end technologies and a passion for learning new skills. 
 
 
 ## 🌐 Socials:
